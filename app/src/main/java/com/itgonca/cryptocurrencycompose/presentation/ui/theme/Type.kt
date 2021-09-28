@@ -1,4 +1,4 @@
-package com.itgonca.cryptocurrencycompose.ui.theme
+package com.itgonca.cryptocurrencycompose.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
